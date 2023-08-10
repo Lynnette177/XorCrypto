@@ -1,2 +1,2 @@
 # XorCrypto
-All kinds of crypto
+All kinds of xorcrypto

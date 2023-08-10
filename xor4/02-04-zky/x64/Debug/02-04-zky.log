@@ -1,0 +1,3 @@
+﻿  02-04-zky.cpp
+I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\实验课\02-04\02-04-zky\02-04-zky\02-04-zky\02-04-zky.cpp(23,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  02-04-zky.vcxproj -> I:\OneDrive - bupt.edu.cn\2022-2023 -2\C++\实验课\02-04\02-04-zky\02-04-zky\x64\Debug\02-04-zky.exe

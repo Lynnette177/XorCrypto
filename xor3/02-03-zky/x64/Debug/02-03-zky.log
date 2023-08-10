@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\repos\作业\02-03-zky\02-03-zky\include.h(1,1): warning C4828: 文件包含在偏移 0xb6 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Xor.cpp
+C:\repos\作业\02-03-zky\02-03-zky\include.h(1,1): warning C4828: 文件包含在偏移 0xb6 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\repos\作业\02-03-zky\02-03-zky\Xor.cpp(6,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  02-03-zky.vcxproj -> C:\repos\作业\02-03-zky\x64\Debug\02-03-zky.exe
